@@ -16,7 +16,7 @@
       }
     ],
   "system": "dungeonworld",
-  "url": "https://github.com/brunocalado/dungeon-world-macros",
+  "url": "https://github.com/brunocalado/dungeon-world-macros", d
   "manifest": "https://raw.githubusercontent.com/brunocalado/dungeon-world-macros/main/module.json",  
   "download": "https://codeload.github.com/brunocalado/dungeon-world-macros/zip/main"               
 }
