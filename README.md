@@ -12,6 +12,12 @@ These items are from the **10+ Treasures, Volume II: More Magic Items** from **A
   <img width="900" src="images/guide/demo.jpg">
 </p>
 
+# Install
+
+## Manual Instalation
+1. Go to **modules** and use the link: 
+Use this: https://raw.githubusercontent.com/brunocalado/10plus-v2-moremagicitems/main/module.json
+
 # Changelog
 You can check changes at [CHANGELOG](CHANGELOG.md)
 
