@@ -3,9 +3,9 @@
    "title": "10+ Treasures, Volume II: More Magic Items (unofficial)",
    "description": "10+ Treasures, Volume II: More Magic Items from Awful Good Games (unofficial)",   
    "author": "Mestre Digital",
-   "version": "0.0.3",
+   "version": "0.0.4",
    "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"0.7.9",
+   "compatibleCoreVersion":"1.0.0",
    "packs": [
       {
         "name": "10-treasures-ii-more-magic-items",
